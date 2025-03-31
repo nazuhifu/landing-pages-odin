@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    padding: 1em 2em;
+    padding: 1em 4em;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -34,7 +34,7 @@ nav {
 }
 
 nav ul {
-    font-size: 0.8rem;
+    font-size: 1rem;
     list-style: none;
     display: flex;
     gap: 2rem;
@@ -55,13 +55,13 @@ nav ul a:hover {
     align-items: center;
     justify-content: space-between;
     padding-block: 1rem 3rem;
-    padding-inline: 3rem;
+    padding-inline: 4rem;
 }
 
 #hero h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 900;
-    line-height: 2.5rem;
+    line-height: 4rem;
 }
 
 #hero img {
@@ -83,7 +83,7 @@ nav ul a:hover {
     padding: 0.5rem 1rem;
     border: none;
     border-radius: 0.5rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     cursor: pointer;
 }
 
@@ -102,7 +102,7 @@ nav ul a:hover {
 }
 
 #about h2 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: var(--dark-color);
 }
 
@@ -129,13 +129,13 @@ nav ul a:hover {
 }
 
 .about-item h3 {
-    font-size: 0.9rem;
+    font-size: 1rem;
     color: var(--dark-color);
     padding-bottom: 0.5rem;
 }
 
 .about-item p {
-    font-size: 0.7rem;
+    font-size: 1rem;
     color: var(--dark-color);
 }
 
@@ -188,7 +188,7 @@ nav ul a:hover {
     padding: 0.5rem 1rem;
     border: none;
     border-radius: 0.5rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: bold;
     cursor: pointer;
 }
